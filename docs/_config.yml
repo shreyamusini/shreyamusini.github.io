@@ -30,9 +30,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
