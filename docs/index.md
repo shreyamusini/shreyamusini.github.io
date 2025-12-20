@@ -4,6 +4,10 @@
 
 layout: home
 author_profile: true
+toc: true
+toc_label: "On This Page"
+toc_icon: "list"
+toc_sticky: true
 ---
 
 Hi! I'm Shreya Musini. I am a current MS student at UCSD studying Computer Science with a depth in AI. I received my BS in Cognitive Science with a Specialization in Machine Learning and Neural Computation with a minor in Data Science. 
