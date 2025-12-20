@@ -27,7 +27,23 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://shreyamusini.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: shreyamusini
-linkedin: ""
+
+author:
+  name: "Shreya Musini"
+  avatar: "/assets/images/profile.jpg" # optional - add your photo here
+  bio: "MS CS @ UCSD | AI/ML | Healthcare"
+  location: "San Diego, CA"
+  
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:shreya.musini@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/shreya-musini-608807260"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/shreyamusini"
 
 # Build settings
 #theme: minimal-mistakes-jekyll
