@@ -33,6 +33,9 @@ github_username:  jekyll
 #theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-include-cache
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 
 # Exclude from processing.
