@@ -20,8 +20,8 @@ title: " "
         <img src="/assets/images/profile.jpg" alt="Shreya Musini" class="profile-photo">
         <div style="margin-top: 1rem; font-size: 1.5rem;">
             <a href="mailto:shreya.musini@gmail.com"><i class="fas fa-envelope"></i></a>
-            <a href="https://linkedin.com/in/shreya-musini-608807260"><i class="fab fa-linkedin"></i><a>
-            <a href="https://github.com/shreyamusini"><i class="fab fa-github"></i></a>
+            <a href="https://linkedin.com/in/shreya-musini-608807260"><i class="fab fa-fw fa-linkedin"></i><a>
+            <a href="https://github.com/shreyamusini"><i class="fab fa-fw fa-github"></i></a>
         </div>
     </div>
     <div markdown="1">
