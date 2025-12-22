@@ -7,6 +7,7 @@ author_profile: false
 header:
     overlay_filter: "0.5"
     overlay_image: /assets/images/library.jpg
+title: " "
 
 # toc: true
 # toc_label: "On This Page"
