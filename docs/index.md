@@ -17,7 +17,7 @@ title: " "
 
 <div class="profile-section">
   <div style="text-align: center;">
-    <img src="/assets/images/profile.jpg" alt="Shreya Musini" class="profile-photo">
+    <img src="/assets/images/profile.jpeg" alt="Shreya Musini" class="profile-photo">
     <div style="margin-top: 1rem;">
       <a href="mailto:shreya.musini@gmail.com" class="btn btn--primary"><i class="fas fa-envelope"></i></a>
       <a href="https://linkedin.com/in/shreya-musini-608807260" class="btn btn--primary"><i class="fab fa-linkedin"></i></a>
