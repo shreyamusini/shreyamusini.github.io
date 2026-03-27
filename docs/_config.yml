@@ -61,6 +61,9 @@ plugins:
 remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
+include:
+  - _pages
+
 sass:
   sass_dir: _sass
   style: compressed
