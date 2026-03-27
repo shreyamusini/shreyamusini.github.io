@@ -34,3 +34,21 @@ title: " "
 
 ## Recent Experience
 
+**Software Engineering Intern · Lawnly** <span style="float:right;">Sept 2025 – Present</span>  
+Developing a Siamese neural network in PyTorch for AI-driven quality control, and building image classification models in Azure ML through architecture experimentation and preprocessing optimization.
+
+---
+
+**Graduate Teaching Assistant · UC San Diego** <span style="float:right;">Sept 2025 – Present</span>  
+Leading discussion sections for COGS 108: Data Science in Practice and conducting weekly office hours. Previously served as an undergraduate IA for COGS 18 and COGS 108, supporting students across Python programming and data science fundamentals.
+
+---
+
+**Data Science Intern · Scripps Research Translational Institute** <span style="float:right;">April 2024 – March 2025</span>  
+Processed and analyzed genomic data to support GWAS, variant calling, and disease prediction in the Torkamani Lab. Contributed to ML model validation for glaucoma risk, multimodal cancer data pipelines, and gene variant classification using HPC infrastructure.
+
+---
+
+**AI Engineer Intern · RadicalX** <span style="float:right;">Nov 2023 – March 2024</span>  
+Built a chat-driven flight manager using Gemini LLM, FastAPI, and Streamlit, integrating LLM function calls with backend booking APIs across NLP workflows and AI tool orchestration.
+
