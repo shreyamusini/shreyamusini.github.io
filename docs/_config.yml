@@ -30,7 +30,7 @@ github_username: shreyamusini
 
 author:
   name: "Shreya Musini"
-  avatar: "/assets/images/profile.jpeg" 
+  avatar: "https://shreyamusini.github.io/assets/images/profile.jpeg"
   bio: "MS CS @ UCSD | AI/ML"
   location: "San Diego, CA"
   
