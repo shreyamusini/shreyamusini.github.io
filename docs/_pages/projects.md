@@ -4,9 +4,6 @@ layout: single
 permalink: /projects/
 author_profile: true
 ---
-
-# Projects
-
 A collection of my work in machine learning, data science, and AI — spanning predictive modeling, classification, and computer vision. All projects can be accessed from my Github in the homepage.
 
 ---
