@@ -34,6 +34,11 @@ title: " "
 
 ## Recent Experience
 
+**Machine Learning Engineer · QuantZero** <span style="float:right;">April 2026 – Present</span> 
+Implementing machine learning models and algorithms to support data-driven decision making processes.
+
+---
+
 **Software Engineering Intern · Lawnly** <span style="float:right;">Sept 2025 – Present</span>  
 Developing a Siamese neural network in PyTorch for AI-driven quality control, and building image classification models in Azure ML through architecture experimentation and preprocessing optimization.
 
