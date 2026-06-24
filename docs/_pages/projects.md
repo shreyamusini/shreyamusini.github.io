@@ -7,6 +7,30 @@ author_profile: true
 A collection of my work in machine learning, data science, and AI — spanning predictive modeling, classification, and computer vision. All projects can be accessed from my Github in the homepage.
 
 ---
+## 🔍 Retrieval-Augmented Generation Pipeline for Q&A
+
+**CSE 234 · LLMs & NLP · Python**
+
+A RAG pipeline built for Q&A over RapidFire AI's open-source documentation, experimenting across multiple configurations to optimize retrieval and generation quality. The project involved systematic tuning of chunking strategies, embedding models, generation models, prompt design, and retrieval parameters to identify the best-performing pipeline.
+
+- Experimented with chunk size, overlap, top-k retrieval, and similarity metrics across configs
+- Evaluated using faithfulness, correctness, F1@5, and a composite final score (0.5 × retrieval + 0.5 × generation)
+- Final configuration achieved faithfulness of 0.933, correctness of 0.844, F1@5 of 0.551, and a final score of 0.749
+
+**Skills:** RAG, LangChain, embeddings, prompt engineering, retrieval evaluation, GPT-OSS-120B, Python
+
+
+## 🧬 NL-to-SQL Schema Linking via Supervised Fine-Tuning
+
+**CSE 234 · LLMs & NLP · Python**
+
+Fine-tuned a small language model to generate schema links from natural language questions, mapping user queries to the correct database tables and columns. The project focused on systematic experimentation with training configurations to maximize schema linking accuracy.
+
+- Fine-tuned Qwen3-1.7B using Hugging Face on schemas from the SNAILS dataset
+- Experimented with training knobs and compared against a fine-tuned LLaMA-3.2-1B baseline
+- Achieved a composite score of 0.503, a 65% relative improvement over the baseline (0.305)
+
+**Skills:** Supervised fine-tuning, Hugging Face, Qwen3, LLaMA, NL-to-SQL, schema linking, Python
 
 ## 🎵 Song Popularity Prediction
 **DSC 148 · Machine Learning · Python**
@@ -52,3 +76,4 @@ An image classification system that detects mood from facial images captured via
 Analyzed 1,534 U.S. power outages to identify trends across climate regions, causes, and customer impact. Performed missingness analysis, hypothesis testing, and built a Random Forest regression model to predict customers affected — reducing MAE from 145,663 (baseline) to 87,811 through feature engineering and GridSearchCV tuning.
 
 **Skills:** pandas, scikit-learn, RandomForestRegressor, GridSearchCV, permutation testing, data imputation
+
