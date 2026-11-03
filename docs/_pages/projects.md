@@ -7,6 +7,19 @@ author_profile: true
 A collection of my work in machine learning, data science, and AI — spanning predictive modeling, classification, and computer vision. All projects can be accessed from my Github in the homepage.
 
 ---
+## 📚 Calibrate: AI Study Coach
+
+**Co-Founder & Head of AI/ML · LLMs · Python · 2026**
+
+An AI study coach that generates quizzes from a student's own study material. As co-founder and Head of AI/ML, I lead Calibrate's AI work and designed and built its LLM quiz generation feature.
+
+- Designed the prompt and grounding strategy, including hallucination safeguards and a token limit check
+- Built an automated LLM-as-judge evaluation pipeline, reaching 96% groundedness and 100% correctness on a 24-question validation set
+- Packaged the generation pipeline as a FastAPI microservice for integration into the product
+
+**Skills:** LLMs, prompt engineering, grounding, LLM-as-judge evaluation, FastAPI, Python
+
+---
 ## 🔍 Retrieval-Augmented Generation Pipeline for Q&A
 
 **CSE 234 · LLMs & NLP · Python**
@@ -26,11 +39,11 @@ A RAG pipeline built for Q&A over RapidFire AI's open-source documentation, expe
 
 Fine-tuned a small language model to generate schema links from natural language questions, mapping user queries to the correct database tables and columns. The project focused on systematic experimentation with training configurations to maximize schema linking accuracy.
 
-- Fine-tuned Qwen3-1.7B using Hugging Face on schemas from the SNAILS dataset
+- Fine-tuned Qwen3-1.7B using Hugging Face and LoRA on schemas from the SNAILS dataset
 - Experimented with training knobs and compared against a fine-tuned LLaMA-3.2-1B baseline
 - Achieved a composite score of 0.503, a 65% relative improvement over the baseline (0.305)
 
-**Skills:** Supervised fine-tuning, Hugging Face, Qwen3, LLaMA, NL-to-SQL, schema linking, Python
+**Skills:** Supervised fine-tuning, LoRA, Hugging Face, Qwen3, LLaMA, NL-to-SQL, schema linking, Python
 
 ## 🎵 Song Popularity Prediction
 **DSC 148 · Machine Learning · Python**
